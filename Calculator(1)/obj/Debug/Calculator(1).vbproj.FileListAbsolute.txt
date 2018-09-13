@@ -1,0 +1,22 @@
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\bin\Debug\Calculator(1).exe.config
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\bin\Debug\Calculator(1).exe
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\bin\Debug\Calculator(1).pdb
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\bin\Debug\Calculator(1).xml
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator_1_.Form1.resources
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator_1_.Resources.resources
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).vbproj.GenerateResource.Cache
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).exe
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).xml
+C:\Users\MIDO\Documents\Visual Studio 2012\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).pdb
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\bin\Debug\Calculator(1).exe.config
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\bin\Debug\Calculator(1).exe
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\bin\Debug\Calculator(1).pdb
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\bin\Debug\Calculator(1).xml
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).vbprojAssemblyReference.cache
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator_1_.Form1.resources
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator_1_.Resources.resources
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).vbproj.GenerateResource.cache
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).vbproj.CoreCompileInputs.cache
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).exe
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).xml
+E:\MIDO\folders\Work Folders\Programming\000\Projects\Calculator(1)\Calculator(1)\obj\Debug\Calculator(1).pdb
